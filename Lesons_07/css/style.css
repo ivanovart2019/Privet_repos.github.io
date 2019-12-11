@@ -1,0 +1,105 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	font-family: Tahoma,sans serif;
+	line-height: 1.5;
+	color: #333;
+}
+
+/*-------- section 1 --------*/
+.section{
+	padding: 2rem 1rem;
+}
+.section .header{
+    text-align: center;
+}
+.header{
+	font-size:1.6rem;
+	margin-top: 3rem;
+}
+.header span{
+	display: block;
+	font-weight: 300;
+	font-size: 1.6rem;
+}
+.header strong{
+	font-weight: 900;
+	text-transform: uppercase;
+    
+}
+.main{
+	margin-top: 5rem;
+	text-align: center;
+}
+
+.video, .form{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/*------- form -------*/
+.form{
+    border: 0.35rem solid #229;
+    padding: 1.3rem;
+    text-align: center;
+    margin-left: 2rem;
+}
+.form input{
+	display: block;
+	width: 20rem;
+	padding: 1rem;
+	border: 1px solid #339;
+	margin-top: 0.8rem;
+}
+p.form-header{
+	text-align: center;
+	font-size: 1.3rem;
+	font-weight: 900;
+	margin-bottom: 2rem;
+}
+.form button{
+	width: 20rem;
+	font-size: 1.1rem;
+	font-weight: 700;
+	color: #fff;
+	background-color: #00f;
+	padding: 1rem;
+	margin-top: 0.7rem;
+	border: none;
+
+}
+
+/*------ section 2 -------*/
+.col{
+	display: inline-block;
+	text-align: center;
+	margin: 1rem 2rem;
+}
+.feature-header{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.5rem;
+	color: #333;
+	font-weight: 700;
+	margin-top: 2rem;
+}
+.feature{
+	margin-top: 4rem;
+}
+.feature-btn{
+	display: block;
+	width: 20rem;
+	font-size: 1.1rem;
+	font-weight: 700;
+	color: #fff;
+	background-color: #00f;
+	padding: 1rem;
+	margin-top: 0.7rem;
+	border: none;
+	margin: 3rem auto;
+}
+
+
