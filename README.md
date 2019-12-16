@@ -1,2 +1,2 @@
-# Уроки Lesons_07 end Lesons_08
+# Уроки Lesons_07
 Мои домашки
