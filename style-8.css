@@ -1,0 +1,48 @@
+
+html{
+	background: pink;
+}
+
+.container{
+	background-color: khaki;
+	margin: 1rem 0;
+	padding: 1rem 0;
+}
+.box{
+	min-height: 50px;
+	line-height: 50px;
+	text-align: center;
+	background: #ccc;
+	margin: 0.5rem;
+	color: red;
+	font-weight: bold;
+	font-size: 1em; 
+	
+}
+.box2{
+	min-height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background: #aaa;
+	margin: 0.5rem;
+	color: green;
+	font-weight: bold;
+	font-size: 1em; 
+	
+}
+hr{
+	width: 90%;
+	height: 2px;
+	wbackground: red;
+	border-bottom: 1px solid #009;
+}
+
+h3{
+	width: 70%;
+	text-align: center;
+	color: #009;
+	border-bottom: 1px solid #500;
+	background: #aaa; 
+	margin: 1rem auto;
+	padding: 0.5em;
+}
