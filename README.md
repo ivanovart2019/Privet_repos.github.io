@@ -3,5 +3,3 @@
 
 [Lesons_08](https://ivanovart2019.github.io)
 
-Репозиторий
-
