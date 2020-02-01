@@ -1,5 +1,5 @@
 # Иванов Петр
 Мои дамашки
 
-[Lesons_08](https://prim-ipp.github.io). Репозиторий
+[Lesons_08](https://prim-ipp.github.io/index.html). Репозиторий
 
