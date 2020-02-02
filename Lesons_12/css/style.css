@@ -1,0 +1,220 @@
+/* Layout ******************/
+
+body {
+  position: relative;
+  margin: 0 3em;
+}
+
+#title {
+  position: absolute;
+  left: 0; top: 1.5em; 
+  height: 6em; width: 100%;
+}
+
+#title h1 {
+  line-height: 2.5em;
+  margin: 0; padding: 0 0.5em;
+}
+
+#sections {
+  position: absolute;
+  right: 0; top: 9em;
+  height: 13em; width: 23em;
+}
+
+#sections ul {
+  list-style: none;
+  margin: 0.75em; padding: 0;
+}
+
+#sections li {
+  margin: 0.4em 0; padding: 0;
+  zoom: 1;
+}
+
+#sections li a {
+  display: block;
+}
+
+#search {
+  position: absolute;
+  right: -1px; top: 17em;
+  height: 2em; width: 100%;
+  padding: 1em 0;
+}
+
+#search p,
+#search p input,
+#search p button {
+  display: inline;
+  vertical-align: middle;
+}
+
+#search p {
+  margin-left: 0.75em;
+}
+
+#search p input {
+  width: 10em;
+}
+
+#news {
+  position: absolute;
+  right: 0; top: 28.25em;
+  width: 23em;
+  padding-bottom: 0.75em;
+}
+
+#news h3 {
+  margin: 1.5em 1em 0.2em 1em;
+}
+
+#news p {
+  margin: 0.5em 1em;
+}
+
+#content {
+  padding-top: 9em;
+  margin-right: 24.5em;
+}
+
+#main {
+  min-height: 30em;
+  zoom: 1;
+}
+
+* html #main {
+  height: 30em;
+}
+
+#main p {
+  margin: 0.75em;
+}
+
+#main .picture {
+  float: left; margin-right: 0.75em;
+}
+
+#meta {
+  margin-top: 1.5em;
+  margin-right: 28.8em;
+}
+
+#meta p {
+  margin: 0.5em 0;
+}
+
+h2 {
+  margin: 0; padding: 0.1em 0.6em;
+}
+
+#sections h2,
+#news h2 {
+  text-align: right;
+}
+
+
+/* Fonts *******************/
+
+body {
+  font: small Tahoma, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 250%;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 130%;
+  text-transform: uppercase; letter-spacing: 1px;
+}
+
+#search,
+#news p,
+#news h3 {
+  font-size: 85%;
+}
+
+#search input,
+#search button {
+  font-size: 100%;
+}
+
+#sections ul a {
+  font-size: 160%; font-weight: bold;
+  text-decoration: none;
+}
+
+#meta {
+  font-size: 85%;
+}
+
+/* Colors ******************/
+
+html {
+  background: url(window-bg.png) white left top repeat-x;
+}
+
+#title {
+  background: url(title-bg.png) #638F7B right center no-repeat;
+  border-color: #2A3D34;
+}
+
+h1 {
+  background: url(h1-bg.png) transparent left center repeat-x;
+}
+
+#main,
+#sections,
+#news,
+#search {
+  background: #F3F8F6; color: #2A3D34;
+}
+
+#main,
+#sections,
+#news,
+#search {
+  border-color: #638F7B;
+}
+
+h2 {
+  background: url(h2-bg.png) #2A3D34 left top repeat-x;
+}
+
+h1,
+h2 {
+  color: #FBCF64;
+}
+
+#sections a,
+#search p,
+#news h3 {
+  color: #638F7B;
+}
+
+#news a,
+#main .picture {
+  color: #C79728;
+}
+
+#meta,
+#meta a {
+  color: #CCC;
+}
+
+/* Misc ********************/
+
+#title,
+#main,
+#sections,
+#search,
+#news,
+#main .picture {
+  border-style: solid; border-width: 1px;
+}
+
+#sections li {
+  background: url(section-arrow.png) right center no-repeat;
+}
