@@ -7,6 +7,6 @@
 
 [Lesons_12](https://ivanovart2019.github.io/Lesons_12/layout.html)
 
-[Прокрутка](https://ivanovart2019.github.io/plavnaia-prokrutkal)
+[Прокрутка](https://ivanovart2019.github.io/plavnaia-prokrutkal/plavnaia-prokrutkal.html)
 
 
