@@ -9,6 +9,6 @@
 
 [Прокрутка](https://ivanovart2019.github.io/plavnaia-prokrutkal/plavnaia-prokrutkal.html)
 
-[Урок-1]  ( https://ivanovart2019.github.io/Урок-1/start-index.html)
+[Урок-1](https://ivanovart2019.github.io/Урок-1/start-index.html)
 
 
